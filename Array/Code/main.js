@@ -38,13 +38,7 @@ function ordinaBubble(array) {
 
 //Funzione fusione array
 function fusionArray() {
-    let i = 0;
-    let lFinale = (v1.length + v2.length) - 2;
-    while(lFinale > 0) {
-        for (let i = 0; i < lFinale; i++) {
-            if()
-        }
-    }
+
 }
 
 //Funzione che inizializza il codice
